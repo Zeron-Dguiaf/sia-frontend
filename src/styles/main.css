@@ -1,0 +1,57 @@
+/* src/styles/main.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.layout-body {
+  flex: 1;
+  display: flex;
+}
+
+/* Header */
+.app-header {
+  background: #6753a3;
+  color: #fff;
+  padding: 1rem;
+}
+
+/* Sidebar nav */
+.app-sidebar {
+  width: 200px;
+  background: #e0e0e0;
+  padding: 1rem;
+}
+
+.app-sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+.app-sidebar li {
+  margin-bottom: 0.5rem;
+}
+
+/* Main */
+.layout-main {
+  flex: 1;
+  padding: 1rem;
+  background: #fff;
+}
+
+/* Footer */
+.app-footer {
+  background: #6753a3;
+  color: #fff;
+  text-align: center;
+  padding: 0.8rem;
+}
+
+/* Table classes from Bootstrap, e.g. .table, .table-bordered, etc. */
