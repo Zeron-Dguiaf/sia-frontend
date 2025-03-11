@@ -1,3 +1,48 @@
+<<<<<<< HEAD
+=======
+* 
+* Proyecto: SIA
+* RM: 128603
+* Entorno: FrontEnd
+___
+* Por: Zeron
+* De: Kaizen2B
+* Fecha: 2025 - 02 - 10
+___
+
+
+### Run
+
+* reactjs
+```text
+npm start
+```
+
+### git
+* …or create a new repository on the command line
+```text echo "# sia-frontend" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Zeron-Dguiaf/sia-frontend.git
+git push -u origin main 
+```
+* …or push an existing repository from the command line
+```text
+git remote add origin https://github.com/Zeron-Dguiaf/sia-frontend.git
+git branch -M main
+git push -u origin main
+```
+
+### Estructura
+
+```text
+frontend
+
+```
+
+>>>>>>> 15c31f7 (1.0.0)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
