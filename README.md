@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-=======
-* 
+___
+# SIA - FRONTEND
+___
 * Proyecto: SIA
 * RM: 128603
 * Entorno: FrontEnd
